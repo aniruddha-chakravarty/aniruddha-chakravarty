@@ -5,18 +5,18 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/dinhanhthi)](https://ko-fi.com/dinhanhthi)
 
 
-I am Aniruddha, a **senior undergrad** at <a href="https://www.mituniversity.edu.in/">MIT-ADTU-SOE</a>. 
+I am Aniruddha, and I write code. Sometimes.  
 
-
-- <a href="https://heraizen.com/">Heraizen <i> (formerly Spaneos) </i> </a>. 
-- 💡 I’m currently learning React Native and hoping to become a mobile app developer.
+- 📖 **Undergrad** at <a href="https://www.mituniversity.edu.in/">MIT-ADTU-SOE</a> (2017 - present). 
+- I've previously interned at <a href="https://heraizen.com/">Heraizen <i> (formerly Spaneos) </i> </a> and have built UI interface mock-ups in Angular. 
+- 🧪 Performed research on Human Computer Interaction (HCI) 
+- 💡 I’m currently learning GraphQL and hoping to become a mobile app developer.
 - 👯 I’m looking to collaborate on any fun projects!
 - :
 - 
 
 - ✉️ You can reach me at my mail: w111heckflosse@gmail.com or at www.linkedin.com/in/aniruddhachakravarty
-- 
-I'm a Vietnamese guy who has a curious mind. I'd like to learn something new every day. I'm a **doctor in Applied Maths** and currently a **Data Scientist**.
+.
 
 - 🌱 On the way of learning *Advanced Machine Learning* & *Data Science* (also enjoying _Web Dev_).
 - 🔥 Most proud of -- [Math2IT](http://math2it.com/), a Vietnamese site for intuitive knowledge (maths, education and technology).
