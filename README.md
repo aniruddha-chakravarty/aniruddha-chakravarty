@@ -5,10 +5,14 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/dinhanhthi)](https://ko-fi.com/dinhanhthi)
 
 
-I am Aniruddha, a senior year undergrad at  <a href="https://www.mituniversity.edu.in/">MIT-ADTU-SOE</a> . I love tech because of it's ability to improve people's lives. I develop with JS, and React Js.
+I am Aniruddha, a **senior undergrad** at <a href="https://www.mituniversity.edu.in/">MIT-ADTU-SOE</a>. 
 
+
+- <a href="https://heraizen.com/">Heraizen <i> (formerly Spaneos) </i> </a>. 
 - 💡 I’m currently learning React Native and hoping to become a mobile app developer.
 - 👯 I’m looking to collaborate on any fun projects!
+- :
+- 
 
 - ✉️ You can reach me at my mail: w111heckflosse@gmail.com or at www.linkedin.com/in/aniruddhachakravarty
 - 
