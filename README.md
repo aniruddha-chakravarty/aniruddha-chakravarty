@@ -1,28 +1,18 @@
 # Namaste 🙏
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniruddhachakravarty/)](https://www.linkedin.com/in/aniruddhachakravarty/)
-[![LeetCode](https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://dinhanhthi.com/)](https://dinhanhthi.com)
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/dinhanhthi)](https://ko-fi.com/dinhanhthi)
+
 
 
 I am Aniruddha, and I write code. Sometimes.
 
-- 📖 **Undergrad** at <a href="https://www.mituniversity.edu.in/">MIT-ADTU-SOE</a> (August 2017 - September 2021). 
+- 📖 **Undergrad** at <a href="https://www.mituniversity.edu.in/">MIT-ADTU-SOE</a>, GPA = 7.65 / 10 (August 2017 - September 2021). 
 - 🚧 Previously interned at <a href="https://heraizen.com/">Heraizen <i> (formerly Spaneos) </i> </a>. Designed UI mock-ups for enterprise code.
-- 🧪 Performed academic research on Human Computer Interaction (HCI) and Natural Language Processing (NLP)
-- : I’m currently learning GraphQL and hoping to become a mobile app developer.
-- 👯 
-- :
-- 📺🎥 Fun fact: I ❤️ <a href = "https://www.imdb.com/title/tt0141842/"> The Sopranos (1999 - 2007) </a> 
+- 🧪 Performed academic research on Human Computer Interaction (HCI) and Natural Language Processing (NLP).
+- 🥉 Sub 100k rank on <a href = "https://leetcode.com/aniruddha_chakravarty/"> LeetCode </a> 
+- 🚴 I cycle. Quite a bit.  <a href = "https://www.strava.com/athletes/aniruddha_c"> Strava Athlete Profile </a> 
+- 📺🎥 Fun fact: I ❤️ <a href = "https://www.imdb.com/title/tt0141842/"> The Sopranos (1997) </a> 
 
-- ✉️ You can reach me at my mail: w111heckflosse@gmail.com or at www.linkedin.com/in/aniruddhachakravarty
-.
-
-- 
-- 🔥 Most proud of -- [Math2IT](http://math2it.com/), a Vietnamese site for intuitive knowledge (maths, education and technology).
-- 📚 My notes of learning at [dinhanhthi.com](http://dinhanhthi.com/).
-- 😍 My hobbies are [drawing](https://photos.app.goo.gl/9OVEkdTjmtRPg7vC3), [reading](https://www.goodreads.com/user/show/19630622-thi-dinh) and [cooking](https://goo.gl/photos/yQXdQws1LLS16x5v5).
-- 💌 Contact me at [dinhanhthi@gmail.com](mailto:dinhanhthi@gmail.com).
 
 Technologies I've been learning and using so far :
 
