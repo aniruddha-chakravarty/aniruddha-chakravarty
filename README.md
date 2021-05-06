@@ -5,20 +5,20 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/dinhanhthi)](https://ko-fi.com/dinhanhthi)
 
 
-I am Aniruddha, and I write code. Sometimes.  
+I am Aniruddha, and I write code. Sometimes.
 
-- 📖 **Undergrad** at <a href="https://www.mituniversity.edu.in/">MIT-ADTU-SOE</a> (2017 - present). 
-- 🚧 Previously interned at <a href="https://heraizen.com/">Heraizen <i> (formerly Spaneos) </i> </a>
-- 🧪 Performed research on Human Computer Interaction (HCI) 
-- 💡 I’m currently learning GraphQL and hoping to become a mobile app developer.
-- 👯 I’m looking to collaborate on any fun projects!
+- 📖 **Undergrad** at <a href="https://www.mituniversity.edu.in/">MIT-ADTU-SOE</a> (August 2017 - September 2021). 
+- 🚧 Previously interned at <a href="https://heraizen.com/">Heraizen <i> (formerly Spaneos) </i> </a>. Designed UI mock-ups for enterprise code.
+- 🧪 Performed academic research on Human Computer Interaction (HCI) and Natural Language Processing (NLP)
+- : I’m currently learning GraphQL and hoping to become a mobile app developer.
+- 👯 
 - :
-- 
+- 📺🎥 Fun fact: I ❤️ <a href = "https://www.imdb.com/title/tt0141842/"> The Sopranos (1999 - 2007) </a> 
 
 - ✉️ You can reach me at my mail: w111heckflosse@gmail.com or at www.linkedin.com/in/aniruddhachakravarty
 .
 
-- 🌱 On the way of learning *Advanced Machine Learning* & *Data Science* (also enjoying _Web Dev_).
+- 
 - 🔥 Most proud of -- [Math2IT](http://math2it.com/), a Vietnamese site for intuitive knowledge (maths, education and technology).
 - 📚 My notes of learning at [dinhanhthi.com](http://dinhanhthi.com/).
 - 😍 My hobbies are [drawing](https://photos.app.goo.gl/9OVEkdTjmtRPg7vC3), [reading](https://www.goodreads.com/user/show/19630622-thi-dinh) and [cooking](https://goo.gl/photos/yQXdQws1LLS16x5v5).
@@ -28,8 +28,7 @@ Technologies I've been learning and using so far :
 
 - Programming languages : <br />
     [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)](https://dinhanhthi.com/#python)
-    [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)](https://dinhanhthi.com/#web_development)
-    [![Matlab](http://img.shields.io/badge/-Matlab-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAANCAMAAACuAq9NAAAB4FBMVEUAAABEUFBEKSliKB+uKg+pJQ9EgoJEior4ew+lJA9Enp5E7OxEenqsJg+kJA9EUVFEpKRERkawJw+qJQ9t185ttq1rx75iycIAAA+oJQ9t3NNt1s2rJg+vJw9tzcRr0sptv7Ztx75uuK9xfXDzdQ/EOw9bFA/faQ///w/4gA/2ew+yKA+xJw/CUQ/73Q/i1g/6ig/qcQ+tJg9Tb2qWQB+5Kwo7k5ddWU3CQA9Dl5dCgILJSQ+hFg9Efn5EhYVGYGDRUA+sIg9DmZlEhYVDY2OwJw9v1ctpsahMW1q1Kw+pIw9t3NNt2dBtzsVtvLO7MQ+sJQ9t2M9t0smvJg93FA9t0sltyL9tv7Vqsqn3dQ/NRQ+yKQ+qJQ9svLNdqqRbKiXvdA/8fA/LQQ+zKQ+uJg+KHgquQQ/lbg/rcQ+xJg+vJg/2pA/7lg/0fA+pJQ//6Q//6w//yA/MdBBuPirnkg2ELRLwjg9RLiyXMA7zhA/bWA9ENTVFMzJjGhOkOA/yfA/kYQ9mkYpNREJOIB53Gw6vQA/xdw/saQ9tyL9tuK9rpZ1TVFFiFhCIIw+6SA/vdA/zcA/EOw9XdHBaHhl6Gw6bMA/HUw/wdA94Gw6VLA+1RQ/WYA/MWg/cZw/8sA/////ZsN0CAAAAcnRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABnxiEh1HwGl9EXGoT4+VA90P6YDErS1hkjZr71+U+A9JkBCWLh/uzj2yczWrHIOyGTciri1zANTpLiRQFFzE1molHMAAAAe0lEQVQI1zXHq4oCAQAF0HvKBovFtEEmWVQUhAEVBB/NZPBvxSDswxHfX7BfscFimtOOJAmGXL0kST4MTL9v/iVp0Df2407SpEepcqeFLiOcnnzW4ehhrZ5fZxul2oEtJnVomzHGFyiwUKrsrEg6LEcXOywk6Zuz56/IGyJAGp/iP+53AAAAAElFTkSuQmCC&logoColor=4951aa)](https://dinhanhthi.com/)
+   
     [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](https://dinhanhthi.com/#web_development)
     <!-- [![R Lang](https://img.shields.io/badge/-R%20Lang-eee?style=flat-square&logo=r&logoColor=276dc3)](https://dinhanhthi.com/#r) -->
     <!-- [![Ruby](http://img.shields.io/badge/-Ruby-eee?style=flat-square&logo=ruby&logoColor=CC342D)](https://dinhanhthi.com/#web_development) -->
@@ -44,13 +43,12 @@ Technologies I've been learning and using so far :
     [![Sass](https://img.shields.io/badge/-SASS-eee?style=flat-square&logo=sass&logoColor=CC6699)](https://dinhanhthi.com/#web_development)
     [![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)](https://dinhanhthi.com/tags#react)
     [![Angular](https://img.shields.io/badge/-Angular-EEE?style=flat-square&logo=angular&logoColor=DD0031)](https://dinhanhthi.com/tags#react)
-    [![Gatsby](https://img.shields.io/badge/-Gabtsy-eee?style=flat-square&logo=Gatsby&logoColor=663399)](https://dinhanhthi.com/tags#gatsbyjs)
-    [![Jekyll](http://img.shields.io/badge/-Jekyll-eee?style=flat-square&logo=jekyll&logoColor=a83232)](https://dinhanhthi.com/jekyll-tips)
+
     [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)](https://dinhanhthi.com/#web_development)
-    [![11ty](http://img.shields.io/badge/-11ty-eee?style=flat-square&logo=eleventy&logoColor=000)](https://dinhanhthi.com/11ty-nunjucks)
-    [![Wordpress](http://img.shields.io/badge/-Wordpress-eee?style=flat-square&logo=wordpress&logoColor=21759B)](https://dinhanhthi.com/tags#wordpress)
+  
+
 - Backend : <br />
-    [![Airflow](https://img.shields.io/badge/-Airflow-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAACAVBMVEXoPibmXEHuYkYAxtMAx9TwTTP/Sx3hOCCXjIDiOCHhNx8InPAAxv9hdaQGkuoEkPgCgvEBydYG0+AQyNQJzLEd8v8Mz9wAqkUAq0UCsIYArEUBeeoE5SUCvk4BeuoBeusCv08Cuk0AsEfgOCDjOSHjOSHjOSHiOSHhOCHfOCAAx9MAxdLfOCDjOSHkOSHjOSHjOyMAxtMAx9QAxtPeNyDjOSHkOSHnQin3aU0Ax9UAx9QAxtPiNBviOSHaPyv8bVDdgGcAx9QAx9QAxtMgqug7m8+/incIxNAAxdIKqPgKrf0Ax9QAxdEBfewCg/AAxtMAws4BeekBfO0CytcBxdIBe+sBfO4P3esO2eYBe+wBgOcDw3gN1MUP2dgBe+0BfO4Be+0EzWUD0FYBr0sArEUAp0IBfO0BfO4Be+0BdukDylQAskgArUYArEYAqUQBe+0Be+wBeOYArUYArUYArUYArUYArUYBeuoBeegAq0UArEUArEYArEYArEYArEYArEXkOSHlOSAAx9TkOCDoQimcY2vqRSz/cFEHtP8hquqxVlX2UDTjfmVOrq4Ax9UCg/ADhvECk/pJgK+ffnE4trkBfO4Be+4BlMcIrXoOw7AE1OMDzNkCy9gCnbgEz2QBvkkEunAP3N8Q4O8E1FUBtEkArEYGvn4AskgArUYArUX///+CCWXoAAAAgHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAInj2sKaWxYYiBOY+MM9EKDbDZP93UQOm9ALjfvfU5X+t1j09PyOS+T1UUPiuxIZyNg3XvnaPZz58fBLxPuFT9/6jQvb/osIRN39kw3ikAo8wPaYFH8QFFSRudHaf4Ujfm8AAACdSURBVAjXJcyxSgIBGADg/6uhQgjfIXDSwQgOqjNDAsFJRKLF0dWxN2qICBH06CQisMBAcInewqlZHW7+4HMG/EGFql7EK7+2NRzV6Owis65rvzlxTuvAHM1PJRLN7aEPV/Ht1KVG0f0vKaduwSZiRVdLFJp513cTx2Aq5+E6vrQxk2GQ/OCOnAlDjLvSiAUvRjzT5yJixaMnuC/yPQUrJDDTZ2+sAAAAAElFTkSuQmCC&logoColor=E43921)](https://dinhanhthi.com/airflow-k8s-101)
+    
     [![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ed)](https://dinhanhthi.com/tags#docker)
     [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb&logoColor=47A248)](https://dinhanhthi.com/)
     <!-- [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=flat-square&logo=postgresql&logoColor=0273B7)](https://dinhanhthi.com/) -->
@@ -66,7 +64,6 @@ Technologies I've been learning and using so far :
     [![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)](https://dinhanhthi.com/tags#linux)
     [![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-eee?style=flat-square&logo=gnu-bash&logoColor=663399)](https://dinhanhthi.com/tags#bash)
     [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)](https://dinhanhthi.com/git)
-    [![Sphinx doc](http://img.shields.io/badge/-Sphinx-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAABI1BMVEUAAAAIR2wIRmsJR2wHR2sJSGwJR20JRm0IR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIRmwIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2z///+XvfDmAAAAYHRSTlMAAAAAAAAAAAYfPksyExhAcqjExse9k1lEIQOHzMXBu8vWw8lmit3OgkKw/n5s4s9RAU+htpW3dpfkaRsqVy5HfJim59gkswd3UNs7ozoVAZZdsQsOi52nXghjCjg9EgKZIX1LAAAAlUlEQVQI11WOvQ7BYABF7/laIWqQRproZrHb2P0MVpPByxk6iL4Fu82moxCRRlQa4jPUT9zl5uQsB/0NiR9ZjJXKAGRPCVMDwBoACIvjUnXJK4Tem8k8oANJK60D7Jvg9D72urmJAUl60JBjwG4rxgBnf911IBYTWLUDWPj9SIIppwZzzZajWJYi0X2U7pL9BjuSm0sv/jwjvB/O1IMAAAAASUVORK5CYII=)](/sphinx-restructuredtext)
 
 <!--
 **aniruddha-chakravarty/aniruddha-chakravarty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
