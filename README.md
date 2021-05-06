@@ -1,9 +1,17 @@
 ### Hi there 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniruddhachakravarty/)](https://www.linkedin.com/in/aniruddhachakravarty/)
-[![My Notes](https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://dinhanhthi.com/)](https://dinhanhthi.com)
+[![LeetCode](https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://dinhanhthi.com/)](https://dinhanhthi.com)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/dinhanhthi)](https://ko-fi.com/dinhanhthi)
 
+
+Hi! My name is Aniruddha, and I'm a front-end web developer. I love tech because of it's ability to improve people's lives. I develop with JS, and React Js.
+
+- 💡 I’m currently learning React Native and hoping to become a mobile app developer.
+- 👯 I’m looking to collaborate on any fun projects!
+
+- ✉️ You can reach me at my mail: w111heckflosse@gmail.com or at www.linkedin.com/in/aniruddhachakravarty
+- 
 I'm a Vietnamese guy who has a curious mind. I'd like to learn something new every day. I'm a **doctor in Applied Maths** and currently a **Data Scientist**.
 
 - 🌱 On the way of learning *Advanced Machine Learning* & *Data Science* (also enjoying _Web Dev_).
