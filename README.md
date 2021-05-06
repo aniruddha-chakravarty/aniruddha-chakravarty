@@ -8,7 +8,7 @@
 I am Aniruddha, and I write code. Sometimes.  
 
 - 📖 **Undergrad** at <a href="https://www.mituniversity.edu.in/">MIT-ADTU-SOE</a> (2017 - present). 
-- I've previously interned at <a href="https://heraizen.com/">Heraizen <i> (formerly Spaneos) </i> </a> and have built UI interface mock-ups in Angular. 
+- 🚧 Previously interned at <a href="https://heraizen.com/">Heraizen <i> (formerly Spaneos) </i> </a>
 - 🧪 Performed research on Human Computer Interaction (HCI) 
 - 💡 I’m currently learning GraphQL and hoping to become a mobile app developer.
 - 👯 I’m looking to collaborate on any fun projects!
