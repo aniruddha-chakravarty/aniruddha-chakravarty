@@ -6,7 +6,7 @@
 
 I am Aniruddha, and I write code. Sometimes.
 
-- 📖 **Undergrad** at <a href="https://www.mituniversity.edu.in/">MIT-ADTU-SOE</a>, GPA = 7.65 / 10 (August 2017 - September 2021). 
+- 📖 **Undergrad** at <a href="https://www.mituniversity.edu.in/">MIT-ADTU-SOE</a>, GPA = 7.7 / 10 (August 2017 - September 2021). 
 - 🚧 Previously interned at <a href="https://heraizen.com/">Heraizen <i> (formerly Spaneos) </i> </a>. Designed UI mock-ups for enterprise code.
 - 🧪 Performed academic research on Human Computer Interaction (HCI) and Natural Language Processing (NLP).
 - 🥉 Sub 100k rank on <a href = "https://leetcode.com/aniruddha_chakravarty/"> LeetCode </a> 
