@@ -4,14 +4,6 @@
 
 
 
-I am Aniruddha, and I write code. Sometimes.
-
-- 📖 **Undergrad** at <a href="https://www.mituniversity.edu.in/">MIT-ADTU-SOE</a>, GPA = 7.7 / 10 (August 2017 - September 2021). 
-- 🚧 Previously interned at <a href="https://heraizen.com/">Heraizen <i> (formerly Spaneos) </i> </a>. Designed UI mock-ups for enterprise code.
-- 🧪 Performed academic research on Human Computer Interaction (HCI) and Natural Language Processing (NLP).
-- 🥉 Sub 100k rank on <a href = "https://leetcode.com/aniruddha_chakravarty/"> LeetCode </a> 
-- 🚴 I cycle. Quite a bit.  <a href = "https://www.strava.com/athletes/aniruddha_c"> Strava Athlete Profile </a> 
-- 📺🎥 Fun fact: I ❤️ <a href = "https://www.imdb.com/title/tt0141842/"> The Sopranos (1997) </a> 
 
 
 Technologies I've been learning and using so far :
